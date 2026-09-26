@@ -92,8 +92,10 @@
 
 
 ## October:
+261002: IBPM Holiday: Gandhi Jayanti
+261021: IBPM Holiday: Vijaya Dashami
 
-
+ 
 ## November:
 
 

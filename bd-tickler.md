@@ -1,4 +1,4 @@
-# Tickler
+# BD/WA Tickler
 
 ## 1:
 
@@ -93,6 +93,13 @@
 
 ## October:
 
+04/10: Cherry BD
+10/10: Joseph Antony BD (or is it the 19th?)
+12/10: John Mathew BD
+15/10: Venkatesh BD(Venky, Param's Friend) 
+17/10: Martin Gabriel BD
+19/10: Barney Joseph & Suchitra WA 2018
+29/10: Ratnesh Kumar Singh BD(Tau, Infosys BPM Marketing)
 
 ## November:
 
